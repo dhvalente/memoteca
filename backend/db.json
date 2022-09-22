@@ -1,0 +1,16 @@
+{
+  "pensamentos": [
+    {
+      "conteudo": "Aprendendo Angular com a Alura!!",
+      "autoria": "Diogo",
+      "modelo": "modelo2",
+      "id": 2
+    },
+    {
+      "conteudo": "Estudar é o caminho para o sucesso!!!",
+      "autoria": "Diogo",
+      "modelo": "modelo1",
+      "id": 3
+    }
+  ]
+}
